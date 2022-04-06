@@ -1,0 +1,7 @@
+name: ItemPlus
+main: com.nelson131.itemplus.ItemPlus
+version: 1.0.0
+api-version: 1.18
+description: Plugin to add new crafts of items
+author: nelson131
+website: github.com/nelson131
